@@ -1,4 +1,4 @@
-DATA DICTIONARY COURSE PROJECT DATASET
+#Data dictinary for course project result dataset
 
  Variable name | Variable decsription
  ------------- | --------------------
