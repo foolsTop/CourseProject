@@ -1,6 +1,6 @@
 ##Data dictionary for course project result dataset
 
- Variable name | Variable decsription
+ Variable name | Variable description
  ------------- | --------------------
  subject | Subject Id
  activity | Activity
