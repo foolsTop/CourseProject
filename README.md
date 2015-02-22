@@ -1,4 +1,3 @@
-# Course Project
 ## Description of run_analysis.R script
 Prerequisites for script:
 Samsung data should be available in the working directory in an unzipped folder "UCI HAR Dataset".
