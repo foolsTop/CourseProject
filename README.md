@@ -24,7 +24,7 @@ The goal of this script is to complete following 5 steps of course project:
  
  Following step is to select only measurements of the mean and standard deviation.
  This is done by subsetting data table.
- Resulting data table will contain only columns that contain "mean()" or "std()" as part of their name. (Plus "subject" and "activity")
+ Resulting data table will contain only columns that contain "mean()" or "std()" as part of their name (plus "subject" and "activity").
  This completes step 2 from the list.
  
  Next, column names are updated to provide appropriate descriptive names.
