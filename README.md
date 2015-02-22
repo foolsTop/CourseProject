@@ -40,3 +40,6 @@ The goal of this script is to complete following 5 steps of course project:
  read.table("result.txt",header=T)
  
 
+Following resourses were used: 
+Course project FAQ by David Hood - https://class.coursera.org/getdata-011/forum/thread?thread_id=69
+
